@@ -1,5 +1,5 @@
 # QuadTree
 Implementation of a Quadtree, with collision detection.
 
-#Built using
+# Built using
 C++, QT
