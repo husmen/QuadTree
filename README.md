@@ -1,2 +1,5 @@
 # QuadTree
-Implementation of a Quadtree using C++ and QT, with collision detection.
+Implementation of a Quadtree, with collision detection.
+
+#Built using
+C++, QT
